@@ -93,6 +93,9 @@ thor@jump_host ~$
 ![image](https://github.com/Althaf-official/KodeKloud_K8s_SysAdmin_level1/assets/105126131/a46ed770-5181-4b9b-97e3-d60cec1d24fd)
 
 
+### attempt 2 
+
+
 ```ruby
 thor@jump_host ~$ cat >  httpd.yaml
 apiVersion: apps/v1
